@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @thennull
+- 👀 I’m interested in ECMAScript (JS), Linux, Open source code, databases, NodeJS, React, full-stack stuff ...
+- 💞️ I’m looking to collaborate on any project about the above topics...
+- 📫 How to reach me: 'thennull.dev@gmail.com' ...
+
+<!---
+thennull/thennull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
